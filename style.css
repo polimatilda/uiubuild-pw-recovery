@@ -43,6 +43,10 @@ input {
     margin: 20px 10px 10px 10px;
 }
 
+em {
+    font-weight: 300;
+}
+
 button {
     all: unset;
     font-family: 'Montserrat', sans-serif;
